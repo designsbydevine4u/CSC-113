@@ -1,0 +1,164 @@
+ChatGPT 
+Very responsive and quick, good quality answers and structured well. Came across as a conversational. Like this one, easy to use.
+
+Explain what artificial intelligence is to someone who has never heard of it before. 
+Keep it under 100 words.
+
+Artificial intelligence, or AI, is when machines are designed to think a little like humans. Instead of just following fixed instructions, they can learn from information, recognize patterns, and make decisions. For example, AI helps phones understand your voice, suggests movies you might like, or helps cars drive safely. It is not human, but it acts like a very fast, tireless helper that improves as it gains more experience.
+
+Write a haiku about debugging code at 2 AM.
+
+Silent screen glow hums
+Bugs scatter at every click
+Dawn waits, coffee cold ?
+
+List 5 key differences between machine learning and traditional programming. 
+Format as a comparison table.
+
+AspectTraditional ProgrammingMachine LearningHow it worksHumans write explicit rules and logicThe system learns patterns from dataRole of dataData is input to fixed rulesData is central and shapes the modelFlexibilityChanges require rewriting codeImproves by retraining with new dataHandling complexityStruggles with vague or complex patternsExcels at pattern recognition and predictionOutput behaviorPredictable and deterministicProbabilistic and can vary with data
+I need to learn GitHub for a college course. Create a 30-day learning plan with 
+specific daily tasks. Keep each day under 30 minutes of work.
+
+Here’s a 30-day GitHub learning plan built for college pace: short, focused, and practical. Each day stays under 30 minutes.
+
+Week 1: Foundations
+Day 1: What Git and GitHub are, install Git
+Day 2: Create a GitHub account, explore the dashboard
+Day 3: Learn repositories, create your first repo
+Day 4: Clone a repo to your computer
+Day 5: Learn git status, git add, git commit
+Day 6: Write good commit messages, practice commits
+Day 7: Push commits to GitHub
+
+Week 2: Core Workflow
+Day 8: Pull changes from GitHub
+Day 9: Understand branches, create a new branch
+Day 10: Switch branches, make commits
+Day 11: Merge branches locally
+Day 12: Resolve a simple merge conflict
+Day 13: Use .gitignore
+Day 14: Review week by updating a repo README
+
+Week 3: Collaboration
+Day 15: Fork a repository
+Day 16: Clone your fork and make changes
+Day 17: Open a pull request
+Day 18: Review and comment on a pull request
+Day 19: Sync fork with original repo
+Day 20: Issues: create, label, and close one
+Day 21: Explore GitHub Discussions
+
+Week 4: College-Ready Skills
+Day 22: GitHub web editor and file history
+Day 23: Markdown basics for READMEs
+Day 24: GitHub Projects (basic board)
+Day 25: GitHub Pages intro
+Day 26: Release versions and tags
+Day 27: Basic GitHub Actions overview
+Day 28: Common Git mistakes and fixes
+Day 29: Practice full workflow on a sample project
+Day 30: Review + confidence check (explain GitHub aloud)
+
+
+Claude
+Very responsive and quick, good quality answers and structured well. Was not as conversational and more direct. Like this one, easy to use.
+
+Explain what artificial intelligence is to someone who has never heard of it before. 
+Keep it under 100 words.
+
+Artificial intelligence, or AI, is technology that allows computers to do things that normally require human thinking. This includes tasks like understanding language, recognizing images, solving problems, and learning from experience.
+Instead of being explicitly programmed for every single situation, AI systems can learn patterns from large amounts of data and improve over time — similar to how a child learns by observing the world.
+You already interact with AI daily: it powers voice assistants, recommends shows on Netflix, filters your spam email, and helps your phone recognize your face.
+
+Write a haiku about debugging code at 2 AM.
+
+Here's a haiku for you:
+Cursor blinks at two, 
+One missing semicolon — 
+Sleep can wait till dawn.
+
+List 5 key differences between machine learning and traditional programming. 
+Format as a comparison table.
+
+AspectTraditional ProgrammingMachine LearningApproachDeveloper writes explicit rules and logicThe system learns rules from data automaticallyInputCode (rules) + Data ? OutputData + Desired Output ? Rules (learned)AdaptabilityStatic; must be manually updated for new scenariosAdapts on its own as it encounters new dataExpertise RequiredDeep domain knowledge needed to cover every caseNeeds large, quality datasets more than manual rule-writingBest Suited ForWell-defined problems with clear, known logic (e.g., a calculator)Complex, pattern-heavy problems where rules are hard to define (e.g., image recognition)The core idea: in traditional programming, you teach the computer what to do. In machine learning, you teach the computer how to learn, and it figures out the rest.
+
+I need to learn GitHub for a college course. Create a 30-day learning plan with 
+specific daily tasks. Keep each day under 30 minutes of work.
+
+Here's your interactive 30-day plan, broken into four phases:
+Phase 1 (Days 1–7): The fundamentals — creating a repo, making commits, and syncing your local machine with GitHub.
+Phase 2 (Days 8–14): Branching and workflow — creating branches, pull requests, and handling merge conflicts.
+Phase 3 (Days 15–21): Collaboration — forking, issues, .gitignore, and simulating teamwork.
+Phase 4 (Days 22–30): Advanced skills and real projects — CI/CD basics, GitHub Pages, rebasing, and making your first open-source contribution.
+You can click any day to reveal a tip, and check days off as you complete them. The progress bar updates as you go. Good luck with your course!
+
+Gemini
+Very responsive and quick, good quality answers and very structured. Was not conversational at all. Straight to the point. Still very easy to use.
+
+Explain what artificial intelligence is to someone who has never heard of it before. 
+Keep it under 100 words.
+
+Artificial Intelligence (AI) is technology that allows computers to do things that usually require human intelligence.[1][2][3][4][5][6] While most machines only follow exact, pre-set instructions, AI can "learn" from information.[4]
+By looking at thousands of examples, it figures out how to recognize your voice, solve problems, or suggest a movie you’ll like. It isn’t actually alive or thinking; it’s a smart tool that mimics the way humans learn from experience. Essentially, AI is a machine that studies patterns to make helpful decisions, acting like a digital assistant for the modern world.
+
+Write a haiku about debugging code at 2 AM.
+
+Screen glows in the dark,
+Searching for one missing mark,
+Sleep is but a dream.
+
+List 5 key differences between machine learning and traditional programming. 
+Format as a comparison table.
+
+While traditional programming relies on human logic to solve problems, machine learning allows computers to find their own solutions by analyzing data.[1][2][3][4][5][6]
+Here are five key differences between the two:
+FeatureTraditional ProgrammingMachine LearningLogic & RulesHumans manually write every rule and "if-then" statement.[5]The computer discovers patterns and rules from data.[1][3][5][6]Input/OutputData + Rules 
+?
+ OutputData + Output 
+?
+ Rules (Model)AdaptabilityRigid; any change requires a human to rewrite the code.Adaptive; the system improves as it sees more data.[2][3][7]DebuggingTransparent; you can trace exactly which line caused an error."Black box"; it can be hard to see why the AI made a specific choice.Best Use CaseStable, predictable tasks like tax math or bank transfers.[1]Complex, evolving tasks like facial recognition or translation.
+I need to learn GitHub for a college course. Create a 30-day learning plan with 
+specific daily tasks. Keep each day under 30 minutes of work.
+
+This 30-day plan is designed for a complete beginner. Each task should take 15–30 minutes. By the end, you’ll be comfortable using GitHub for your college projects and collaboration.[1][2]
+Week 1: Foundations & Local Git
+Focus on understanding the "Undo" button of code.[1][2][3]
+* Day 1: Watch a 5-minute "Git vs. GitHub" video. Create a GitHub account.[1][3]
+* Day 2: Install Git on your computer (Windows/Mac/Linux).[1][3]
+* Day 3: Configure Git. Open your terminal and set your name/email using git config.[1][3]
+* Day 4: Create a "Practice" folder on your computer.[1][3] Use git init to turn it into a repository.[1][2][4][5]
+* Day 5: Create a text file (hello.txt). Learn git status to see it.[1]
+* Day 6: The Staging Area. Use git add to prepare your file for a save.[1][2][5]
+* Day 7: Your First Commit. Use git commit -m "My first save" to permanently save the file.[1][3]
+Week 2: Connecting to the Cloud
+Moving your work from your computer to GitHub.[1][2][3]
+* Day 8: Create your first Remote Repository on GitHub.com (keep it public).[1][3]
+* Day 9: Connect them. Use git remote add origin [URL] to link your local folder to GitHub.[1][2][3]
+* Day 10: The Push. Use git push -u origin main to send your local file to the web.[1][3]
+* Day 11: The README. Create a README.md file on GitHub using their web editor.[1][3]
+* Day 12: The Pull. Use git pull to bring that new README down to your computer.[1][2]
+* Day 13: The Clone. Delete your local "Practice" folder and "Clone" it back from GitHub.[1]
+* Day 14: Review Week 2: Add a new line to your text file, add, commit, and push.
+Week 3: Branching & Safety
+Learning to experiment without breaking your main project.
+* Day 15: Concept: What are branches? (Think of them as "parallel universes" for code).[1][3]
+* Day 16: Create a branch. Use git branch feature-test.[1][3]
+* Day 17: Switch branches. Use git checkout feature-test.[1][3]
+* Day 18: Make a change on your new branch and commit it.
+* Day 19: Switch back to main. Notice your change is gone! (This is the "safe" zone).[1][3]
+* Day 20: Merging. Use git merge feature-test to bring your changes into main.[1][3]
+* Day 21: Delete the extra branch using git branch -d feature-test.[1][2][3]
+Week 4: Collaboration & Documentation
+Working with others and professionalizing your profile.[1][2][3]
+* Day 22: Forking. Go to a popular project (like a "Hello World" repo) and click "Fork."[1][3]
+* Day 23: Issues. Create an "Issue" on your own repo to track a "bug" you want to fix.[1]
+* Day 24: Pull Requests (PRs). The most important skill. Learn the concept of asking to merge code.
+* Day 25: Create a PR on your own repository from a new branch to the main branch.[1][2][3]
+* Day 26: .gitignore. Create a file named .gitignore to tell Git to ignore "junk" files.[1]
+* Day 27: Markdown. Spend 20 minutes learning basic Markdown (headers, bold, links) for your README.[1][3]
+* Day 28: GitHub Pages. Turn your repository into a live website in the "Settings" tab.[1]
+* Day 29: Final Project Part 1: Create a new repo for a real class assignment. Add, commit, and push.[1][2][4][5][6]
+* Day 30: Final Project Part 2: Add a great README with a screenshot and a description. You're done!
+
+
+I think I prefer ChatGPT but I didn’t mind the other two. Almost feel like it would depend on what information I was trying to get out of them. If you are looking to just work through an issue and need help formulating the process of figuring it out, ChatGPT or Claude seem to be perfect for that. If you’re looking at getting raw data and just need the facts, I think Gemini would be the right tool. I don’t know enough nor have I done enough on any of these  to know if this is correct but that was my initial impression just from answering these questions. I did not start new chats for each question. 
