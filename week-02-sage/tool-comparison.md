@@ -1,30 +1,38 @@
 # AI Tool Comparison - Week 2
 
-## Test Date: [Today's date]
+## Test Date: \[Today's date]
 
 ## Tools Tested
+
 1. Gemini 3 Flash
 2. Claude (free)
-3. ChatGPT 
+3. ChatGPT
 
 ## Test Results
 
 ### Prompt 1: Simple Explanation Task
-**Prompt**: [Paste prompt]
 
-| Tool | Response Time | Quality | Notes |
-|------|---------------|---------|-------|
-| Gemini | [fast/medium/slow] | [score/5] | [Your notes] |
-| Claude | [fast/medium/slow] | [score/5] | [Your notes] |
-| ChatGPT | [fast/medium/slow] | [score/5] | [Your notes] |
+**Prompt**: Please explain to me how AI can improve the way I learn.
 
-[Repeat for all 4 test prompts]
+|Tool|Response Time|Quality|Notes|
+|-|-|-|-|
+|Gemini|fast|4.5|I like the conversational tone that this one uses with me. (I understand that is my influence)|
+|Claude|fast|4.8|It's factual and to the point|
+|ChatGPT|fast |4.5|I also like the conversational tone with this one. |
+
+\[Repeat for all 4 test prompts]
 
 ## Comparative Analysis
-[Write 2-3 paragraphs comparing the tools. Which excelled at what? 
- Which would you use for which tasks? Why?]
+
+They each shine in different areas and I can see the usefulness of all three tools. Both ChatGPT and Gemini came across conversational to me which I like. I makes it easier to say or ask what I need to without trying to technical and specific. Claude may be able to interpret in the same manner but it's output was more "matteroffact-ish" for me.
+
+
+
+I would use Gemini for my daily nuances and questions. Like have a conversation with a friend. I would use ChatGPT when I need more depth and possible a guide or assistance with more specific topics. I would use Claude when I need raw data or something that demands more detail. 
 
 ## My Choice for Primary Tool
-**Tool**: [Your selection]  
-**Reasoning**: [Why you picked this tool]  
-**Backup Plan**: [What you'll do when you hit rate limits]
+
+**Tool**: Gemini  
+**Reasoning**: Mostly because I'm familiar with Google and am comfortable navigating it.  
+**Backup Plan**: Definitely ChapGPT or google itself.
+
