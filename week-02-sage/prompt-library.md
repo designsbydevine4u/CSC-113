@@ -4,10 +4,10 @@ This is my collection of useful prompts organized by purpose.
 
 ## Explanations & Learning
 1. **Simple Concept Explanation**
-[Your prompt]
+I need help with
 
-Used for: [When this is helpful]  
-Works best with: [Which AI tool]
+Used for: I need an a better explanation for ...  
+Works best with: Gemini
 
 [Continue for all prompts you found useful]
 
