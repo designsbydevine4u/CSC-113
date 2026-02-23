@@ -1,0 +1,15 @@
+##Learning and Studying
+1. Give me a brief overview of [subject] as it pertains to [class].
+2. Walk me through how to do …
+
+##Creating and Building
+3. Create a study guide for [subject], specifically on [sub-topic].
+4. Generate 10 questions that will help me study for my test on [subject].
+
+##Evaluating and Improving
+5. Check the accuracy of my answers to the following questions.
+6. How can I improve my process or answer for [problem or question].
+
+##Your Choice
+7. Be my personal critique for my [project]. What could be changed based on the rules of [subject]
+8. Is there anything that could be changed to make this better?
